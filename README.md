@@ -1,5 +1,8 @@
 # Auto-Case
 ![](gitres/1.png)
+<p align="center">
+  <a href="https://sourceforge.net/projects/auto-case/files/latest/download"><img alt="Download Auto-Case" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
+</p>
 ## What It Does❓
 - Ever typed something in wrong case (UPPER/LOWER), **yes!**
 - So,all you can do is press backspace all the way and again retype your words
