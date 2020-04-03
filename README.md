@@ -1,4 +1,4 @@
-# Auto-Case
+# Auto-Case [![Download Auto-Case](https://img.shields.io/sourceforge/dt/auto-case.svg)](https://sourceforge.net/projects/auto-case/files/latest/download)
 ![](gitres/1.png)
 <p align="center">
   <a href="https://sourceforge.net/projects/auto-case/files/latest/download"><img alt="Download Auto-Case" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
